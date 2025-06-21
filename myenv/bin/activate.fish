@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/souravsingh/code/ai/langchain-ask-pdf/myenv"
+set -gx VIRTUAL_ENV "/Users/souravsingh/code/ai/langchain-ask-json/myenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

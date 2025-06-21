@@ -1,4 +1,4 @@
-#!/Users/souravsingh/code/ai/langchain-ask-pdf/myenv/bin/python3.12
+#!/Users/souravsingh/code/ai/langchain-ask-json/myenv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
